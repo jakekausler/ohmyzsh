@@ -13,3 +13,6 @@
 [submodule "custom/plugins/zsh-completions"]
 	path = custom/plugins/zsh-completions
 	url = https://github.com/zsh-users/zsh-completions.git
+[submodule "custom/plugins/zsh-fzf-history-search"]
+	path = custom/plugins/zsh-fzf-history-search
+	url = https://github.com/joshskidmore/zsh-fzf-history-search.git
